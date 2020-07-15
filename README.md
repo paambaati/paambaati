@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="left" width="150" height="150" alt="GP" src="./httgp.svg"/>
 
-<!--
-**paambaati/paambaati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏽  Hey there! My name is Ganesh Prasannah, but everyone knows me as [GP](https://httgp.com). 
 
-Here are some ideas to get you started:
+I'm an engineer & a problem solver at heart, and right now I'm helping build the future of digital freight forwarding at [Wiz](http://wizfreight.com/). I mostly work with JavaScript-based runtimes & libraries like Node.js, TypeScript & React, and I focus on expressive, clean & performant code. I also work on DevOps & distributed systems; I'm super-comfortable with Terraform, Ansible, Packer, HAProxy, Apache Mesos & Kafka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 What I love doing
+
+1. Building inclusive, thoughtful and great teams.
+2. Mentoring & bringing up talent.
+3. Writing ~beautiful~ robust software.
+4. [Blogging about things I love or learnt](https://httgp.com/).
+5. Hunting down the perfect GIF for _every_ situation.
+
+    ![](https://thumbs.gfycat.com/ContentUnsightlyElephantbeetle-max-1mb.gif)
