@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="GP" src="/paambaati/paambaati/blob/master/httgp.svg"/>
+<img align="left" width="150" height="150" alt="GP" src="https://raw.githubusercontent.com/paambaati/paambaati/master/httgp.svg"/>
 
 👋🏽  Hey there! My name is Ganesh Prasannah, but everyone knows me as [GP](https://httgp.com). 
 
