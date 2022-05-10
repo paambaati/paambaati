@@ -2,7 +2,7 @@
 
 👋🏽  Hey there! My name is Ganesh Prasannah, but everyone knows me as [GP](https://httgp.com). 
 
-I'm an engineer & a problem solver at heart, and right now I'm helping build productivity tools at [OSlash](https://oslash.com/). I mostly work with JavaScript-based runtimes & libraries like Node.js, TypeScript & React, and I focus on expressive, clean & performant code. I also work on DevOps & distributed systems; I'm super-comfortable with Terraform, Ansible, Packer, HAProxy, Apache Mesos & Kafka.
+I'm an engineer & a problem solver at heart, and right now I'm helping build productivity tools at [OSlash](https://oslash.com/). I mostly work with JavaScript-based runtimes & libraries like Node.js, Deno, TypeScript & React, and I focus on expressive, clean & performant code. I also work on DevOps & distributed systems; I'm super-comfortable with Terraform, Ansible, Packer, HAProxy, Apache Mesos & Kafka.
 
 ### 💬 What I love doing
 
