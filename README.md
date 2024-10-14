@@ -2,7 +2,7 @@
 
 👋🏽  Hey there! My name is Ganesh Prasannah, but everyone knows me as [GP](https://httgp.com). 
 
-I'm a web and infrastructure engineer & a problem solver at heart. I mostly work with Terraform and JavaScript-based runtimes & libraries like Node.js, Deno, Bun, Cloudflare Workers, TypeScript & React, and I focus on expressive, clean & performant code. I also work on DevOps & distributed systems; I'm super-comfortable with Ansible, Packer, Nomad, HAProxy, Apache Mesos & Kafka.
+I'm a web and infrastructure engineer & a problem solver at heart. I mostly work with Terraform and JavaScript-based runtimes & libraries like Node.js, Deno, Bun, Cloudflare Workers, TypeScript & React, and I focus on expressive, clean & performant code. I also work on DevOps & distributed systems; I'm proficient with all things AWS, Cloudflare, Ansible, Packer, Nomad, HAProxy, Kafka, Prometheus, Grafana & Apache Mesos (RIP).
 
 ### 💬 What I love doing
 
